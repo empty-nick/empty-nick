@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @empty-nick
 - 👀 I’m interested in front-end developing 
 - 🌱 I’m currently learning JavaScript, React.js and Vue.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on U!
 - 📫 How to reach me ...
 
 <!---
